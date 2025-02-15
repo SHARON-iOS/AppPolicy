@@ -1,21 +1,117 @@
-# Privacy Policy
+# Privacy Policy for Queen Bee Kitchen Guide
 
-Last updated: 12/02/2025
+Last updated: 15/02/2025
 
-## 1. Information We Collect
-Queen Bee Kitchen Guide does not collect, store, or share any personal information from its users.
+## 1. Introduction
+Welcome to Queen Bee Kitchen Guide ("the App"). This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our application.
 
-## 2. Data Storage
-All data used by the app, including recipes and user preferences, is stored locally on your device. We do not have access to this information.
+## 2. Information We Collect Directly
+Queen Bee Kitchen Guide does not directly collect, store, or process any personal information from its users, except for data stored in Firebase services as described below.
 
 ## 3. Third-Party Services
-We do not use any third-party services that collect user data.
+The App uses the following third-party services that may collect and process certain information:
 
-## 4. Your Privacy
-We are committed to protecting your privacy. Since we do not collect any data, there is no risk of your information being shared, sold, or compromised.
+### 3.1 Google AdMob
+The App uses Google AdMob for displaying advertisements. AdMob may collect:
 
-## 5. Changes to Privacy Policy
-We may update this policy to reflect changes in our practices. Any changes will be posted here.
+#### Data Collected by AdMob
+- Device identifiers (such as IDFA or Android ID)
+- IP address
+- Cookie information
+- Device type and settings
+- App usage data
+- Advertising identifiers
+- Location information (if enabled)
 
-## 6. Contact Us
-If you have any questions about our privacy practices, please contact us at developer.queenbee@gmail.com.
+#### Purpose of Data Collection
+AdMob uses this information to:
+- Serve personalized ads
+- Measure ad performance
+- Prevent fraud and abuse
+- Improve their advertising services
+
+#### User Control
+You can opt-out of personalized advertising through your device settings:
+- iOS: Settings > Privacy > Apple Advertising > Turn off Personalized Ads
+- Android: Settings > Google > Ads > Opt out of Ads Personalization
+
+### 3.2 Firebase Services
+The App uses Firebase Realtime Database and Firebase Storage for data management and storage. Firebase may collect:
+
+#### Data Collected by Firebase
+- Device information
+- Usage data
+- Crash reports
+- Performance data
+- User-generated content (if applicable)
+
+#### Purpose of Data Collection
+Firebase uses this information to:
+- Provide database and storage services
+- Improve app performance
+- Monitor app stability
+- Analyze usage patterns
+
+#### Data Security
+All data stored in Firebase is protected by:
+- SSL encryption for data in transit
+- AES-256 encryption for data at rest
+- Google's robust security infrastructure
+
+## 4. Data Storage and Security
+All app-specific data is stored either locally on your device or in Firebase services. We implement appropriate security measures to protect your data, including:
+- Secure authentication methods
+- Data encryption
+- Access controls
+- Regular security audits
+
+## 5. Children's Privacy
+Queen Bee Kitchen Guide is suitable for users of all ages. We have implemented the following measures to protect children's privacy:
+- AdMob's Family Policy compliance
+- COPPA-compliant settings in Firebase
+- No collection of personal information from children under 13
+
+## 6. User Rights
+You have the right to:
+- Access information collected about you
+- Request deletion of your data
+- Opt-out of data collection for advertising purposes
+- Withdraw consent for data processing
+
+To exercise these rights regarding third-party services, please contact the respective service providers:
+- Google AdMob: https://support.google.com/admob
+- Firebase: https://firebase.google.com/support
+
+## 7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page, and we will update the "Last updated" date at the top of this Privacy Policy.
+
+## 8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+[Your Email Address]
+
+## 9. Legal Compliance
+Queen Bee Kitchen Guide complies with all applicable privacy laws and regulations, including but not limited to:
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Children's Online Privacy Protection Act (COPPA)
+
+## 10. Data Retention
+We retain data only as long as necessary for the purposes outlined in this policy. Firebase data retention follows Google's standard policies unless otherwise specified in our app settings.
+
+## 11. International Users
+Queen Bee Kitchen Guide is designed to respect user privacy globally. We comply with international data protection regulations, including GDPR for European users.
+
+## 12. Security Measures
+We have implemented comprehensive security measures, including:
+- Firebase's built-in security rules
+- Data encryption
+- Regular security updates
+- Access controls
+
+## 13. Your Consent
+By using Queen Bee Kitchen Guide, you acknowledge that you have read and understood this Privacy Policy and consent to the data collection practices described herein.
+
+## 14. Governing Law
+This Privacy Policy is governed by and construed in accordance with the laws of India.
+
+Contact us: developer.queenbee@gmail.com
