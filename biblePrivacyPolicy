@@ -4,24 +4,43 @@
 
 Thank you for using Bible for all. Your privacy is important to us. This Privacy Policy explains how we handle your information.  
 
-## 📌 Information We Do Not Collect  
-We respect your privacy. **Bible for all.** does not:  
-- ❌ Collect any **personal information** such as name, email, or phone number.  
-- ❌ Store or track **your activity** within the app.  
-- ❌ Use third-party APIs to collect or process your data.  
+📌 Information We Collect
+Our app does not collect or store personal data. However, we use Google AdMob, which may collect data for advertising and analytics.
 
-## 📌 Third-Party Services  
-Our app uses **Google AdMob** to display advertisements. **AdMob may collect and use device information** to show relevant ads. This data collection is managed by Google, and you can review their privacy policy here:  
-👉 [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads)  
+👉 Collected by AdMob (Google):
 
-## 📌 How We Ensure Privacy  
-✔️ We **do not store any data** on our servers.  
-✔️ We **do not track your behavior** or collect analytics.  
-✔️ We **only use Google AdMob**, which operates independently under Google’s privacy terms.  
+Device Information (e.g., IP address, device type)
+Advertising ID (IDFA) (used for ad tracking if permitted by user)
+Usage Data (ad interactions, frequency of use)
+📌 You can opt out of personalized ads via your device settings:
 
-## 📌 Changes to This Policy  
-We may update this Privacy Policy as needed. Any changes will be posted in the app or on our GitHub repository.  
+iOS: Settings → Privacy & Security → Tracking → Disable “Allow Apps to Request to Track.”
+📌 Why We Collect This Information
+We use Google AdMob to serve advertisements and:
+✔️ Provide contextual ads based on app usage.
+✔️ Improve ad relevance (if tracking is enabled).
+✔️ Support app maintenance and development through ad revenue.
 
-## 📌 Contact Us  
-If you have any questions about this Privacy Policy, feel free to contact us at:  
-📧 developer.queenbee@gmail.com  
+We do not:
+❌ Store any personal data on our servers.
+❌ Sell or share your personal data for third-party marketing.
+
+📌 Third-Party Services & Tracking
+We integrate Google AdMob, which may collect user data for advertising.
+
+👉 Google AdMob Privacy Policy: https://policies.google.com/technologies/ads
+
+👉 How to Opt Out of Tracking: https://support.google.com/ads/answer/2662922?hl=en
+
+📌 Digital Services Act (DSA) Compliance
+If you are in the European Union (EU), we comply with the Digital Services Act (DSA) by:
+✔️ Providing transparency on how ads are served.
+✔️ Allowing users to control tracking preferences.
+✔️ Giving you options to disable tracking & personalized ads.
+
+📌 Changes to This Policy
+We may update this Privacy Policy periodically. Any changes will be posted in the app or on our website.
+
+📌 Contact Us
+If you have any questions or privacy concerns, feel free to contact us at:
+📧 developer.queenbee@gmail.com
